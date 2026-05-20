@@ -1,3 +1,6 @@
+# NAME: INFANTINA MARIA L
+# REG NO: 212223100013
+# EX: Supply Chain Transparency for Luxury Goods
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
@@ -48,21 +51,22 @@ contract LuxurySupplyChain {
     }
 }
 ```
-# Expected Output:
+# Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+<img width="1918" height="972" alt="Screenshot 2026-05-20 115015" src="https://github.com/user-attachments/assets/25d9f172-f6f5-4cdd-98fd-eb2b9d262efc" />
 
+<img width="1918" height="960" alt="Screenshot 2026-05-20 115044" src="https://github.com/user-attachments/assets/1c3b0b55-2977-4483-ae10-d22de71b90ad" />
 
 Ownership is transferred at every checkpoint.
+<img width="1913" height="962" alt="Screenshot 2026-05-20 115128" src="https://github.com/user-attachments/assets/506d2830-dbc8-4362-a442-f6f20736166f" />
 
 
 Buyers can check the authenticity before purchasing.
-
+<img width="1918" height="965" alt="Screenshot 2026-05-20 115146" src="https://github.com/user-attachments/assets/25329305-567f-4c27-a38a-e87f33041de4" />
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
-
-
 Teaches real-world supply chain use cases.
 
 # RESULT : 
-
+Thus a smart contract that tracks the supply chain of luxury goods ensuring authenticaly is executed sucessfully
